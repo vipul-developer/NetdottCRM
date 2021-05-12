@@ -20,3 +20,8 @@ a{
   #userAction .MuiPaper-root{
     top: 63px !important;
   }
+  .VisitorBck{
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+  }
